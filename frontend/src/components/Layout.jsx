@@ -4,6 +4,7 @@ const navItems = [
   { to: '/contacts', label: 'Contacts' },
   { to: '/tasks', label: 'Tasks' },
   { to: '/dashboard', label: 'Dashboard' },
+  { to: '/aihelper', label: 'AI Helper' },
 ];
 
 function Layout() {
